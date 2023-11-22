@@ -1,12 +1,12 @@
 
 import './App.css';
-import WebsiteAni from '../src/components/WebsiteAni';
+import Keypad from '../src/components/Keypad';
 
 
 function App() {
   return (
     <>
-    <WebsiteAni/>
+    <Keypad/>
     
     </>
    
